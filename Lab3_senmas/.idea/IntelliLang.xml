@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LanguageInjectionConfiguration">
+    <injection language="AIDL" injector-id="xml">
+      <display-name>androidx.constraintlayout.widget.ConstraintLayout/@context</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("context")).withNamespace(string().equalTo("http://schemas.android.com/tools")).withParent(xmlTag().withLocalName(string().matches("androidx.constraintlayout.widget.ConstraintLayout")))]]></place>
+    </injection>
+  </component>
+</project>
